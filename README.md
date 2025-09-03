@@ -9,6 +9,7 @@ users to further their careers and showcase professional growth.
 2. Enter your information like your name and email
 3. Verify your email address through a link sent to you in your inbox
 4. Start creating your profile by adding in your profession, location, and profile photo
+![LinkedIn signup page](step4.png)
 5. Add in a summary of your professional role in the headliner
 6. Add in your education and work experience on your profile
 7. Write a berif staement about your interests or background
