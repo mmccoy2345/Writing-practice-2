@@ -5,6 +5,7 @@ helpful tool for making connections and finding job oppourtunities. LinkedIn can
 users to further their careers and showcase professional growth.
 ## 8 Steps to get you started
 1. Go to [LinkedIn](https://www.linkedin.com) and click join now in thr top right hand corner
+![LinkedIn signup page](step1.png) 
 2. Enter your information like your name and email
 3. Verify your email address through a link sent to you in your inbox
 4. Start creating your profile by adding in your profession, location, and profile photo
